@@ -1,4 +1,4 @@
-<h1>Creating Ransomeware in Pyhton </h1>
+<h1>Creating Ransomeware in Python </h1>
 
 <h2>Description</h2>
 I have designed a project to demonstrate the intricacies of potentially harmful software development using Python. This is aimed at providing an in-depth understanding of how malicious tools can be crafted. In this project, I've illustrated the steps to create a demonstration ransomware using the cryptography library in Python, specifically Fernet. Additionally, I've curated a controlled environment that showcases a collection of sample Python scripts for educational insight.
